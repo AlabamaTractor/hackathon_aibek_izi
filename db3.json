@@ -1,0 +1,164 @@
+{
+  "students": [
+    {
+      "name": "asd",
+      "surname": "aasdasd",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 1
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 2
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 3
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 4
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 5
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 6
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 7
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 8
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 9
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 10
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 11
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 12
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 13
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 14
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 15
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 16
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 17
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 18
+    },
+    {
+      "surname": "Чжен",
+      "name": "Геннадий",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 19
+    },
+    {
+      "surname": "Балпанов",
+      "name": "Айбек",
+      "telnum": "123",
+      "kpiWeek": "123",
+      "kpiMonth": "123",
+      "id": 20
+    }
+  ]
+}

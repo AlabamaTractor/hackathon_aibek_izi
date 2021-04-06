@@ -1,0 +1,125 @@
+td{
+    border-bottom: 1px solid black;
+
+    width: 140px;
+    position:relative;
+    text-align:center;
+}
+.container{
+    border: 1px solid red;
+    margin: 100px auto;
+    width: 60%;
+    padding: 30px;
+
+}
+
+
+
+
+
+.modal{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, .5); 
+    display: none;
+    color: white;
+
+}
+
+
+.add-modal{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, .5); 
+    display: block;
+    color: white;
+
+}
+.inner-modal2{
+    width: 200px;
+    /* height: 300px; */
+    margin: 5% auto;
+    border: 0px solid red;
+    background-color: rgba(89, 125, 163, .8);
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.inner-modal{
+    width: 400px;
+    /* height: 300px; */
+    margin: 5% auto;
+    border: 0px solid red;
+    background-color: rgba(89, 125, 163, .8);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.btn-save, .btn-close, .btn-edit, .btn-delete, .add-btm, .previous-btn, .next-btn{
+    margin:5px;
+    border: 0px solid black;
+    background-color: rgb(89, 125, 163);
+    color: white;
+    font-size: 7px;
+    padding:8px;
+    border-radius: 3px;
+}
+
+.edit {
+    margin: 5px;
+    height: 40px;
+    text-align: left;
+    border-radius: 5px;
+    border: 1px solid red;
+    width: 376px;
+}
+.search{
+    width: 70%;
+    height:40px;
+    /* margin-bottom: 30px; */
+}
+.search:hover{
+    border-radius: 5px;
+    height:40px;
+   
+    
+}
+
+.main-tr {
+    font-weight:bold;
+   
+}
+
+.addStudent{
+    border: 3px solid yellow;
+    width: 0 auto;
+    padding: 0px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.kpiWeek {
+    width: 56px;
+}
+.kpiMonth {
+    width: 60px;
+}
+.add-btn1 {
+    width: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.add-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid yellow;
+}

@@ -1,0 +1,331 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+body{
+    background-color:grey;
+    background-image: url(../images/DC-Super-Heroes.jpg);
+    background-repeat: no-repeat;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+
+.header{
+    max-width: 1440px;
+    width: 100%;
+    height: 10vh;
+    /* background-color: #20232A; */
+    padding: 25px 0 33px 0;
+    margin: 0 auto;
+    display: block;
+    justify-content: space-between;
+    background-image: url();
+    background-color: none;
+
+}
+
+/* ÃƒÆ’Ã‚ÂÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂºÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â¾ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â³ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â¾ÃƒÆ’Ã¢â‚¬ËœÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â¸ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â¿ ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â¸ ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚ÂµÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â³ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â¾ ÃƒÆ’Ã¢â‚¬ËœÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚ÂµÃƒÆ’Ã‚ÂÃƒâ€šÃ‚ÂºÃƒÆ’Ã¢â‚¬ËœÃƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬ËœÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡*/
+
+
+.header__logo{
+    color: #ffffff;
+    margin: 0 650px;
+    /* margin-left: 103px; */
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.header__white-s{
+    padding: 0 0 0 0;
+    background-color: #ffffff;  
+    color: black;
+    font-weight: bold;
+}
+
+.header__yellow-documentation{
+    color: #ffe500;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-weight: normal;
+
+}
+/* ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚ÂÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â°ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â²ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â¸ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â³ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â°ÃƒÆ’Ã¢â‚¬ËœÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â¸ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â¾ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â½ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â½ÃƒÆ’Ã¢â‚¬ËœÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¹ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Âµ ÃƒÆ’Ã¢â‚¬ËœÃƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬ËœÃƒâ€šÃ‚ÂÃƒÆ’Ã¢â‚¬ËœÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¹ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â»ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚ÂºÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â¸ ÃƒÆ’Ã¢â‚¬ËœÃƒâ€šÃ‚Â ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â¿ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â¾ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â¸ÃƒÆ’Ã¢â‚¬ËœÃƒâ€šÃ‚ÂÃƒÆ’Ã‚ÂÃƒâ€šÃ‚ÂºÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â¾ÃƒÆ’Ã‚ÂÃƒâ€šÃ‚Â¼*/
+/* .header__topnav{
+    /* margin-left: 271px; */
+/* }  */
+.wrapper__textblock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.search-btn {
+    font-size: 35px;
+}
+
+nav{
+    margin-right:20px;
+}
+.header a{
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    margin-left: 50px;
+    font-size: 12px;
+    padding-bottom: 15px;
+    border-bottom: 3px solid #20232A;
+}
+.placeholder-bg-yellow{
+    background-color:#FFE500;
+    width: 146px;
+    height: 25px;
+    border-radius: 20px;
+    border: 0px solid yellow;
+    text-align: left;
+    font-style: italic;
+    font-family: 'Lato', sans-serif;
+    margin-left: 33px;
+    color: black;
+    padding-left: 10px;
+}
+
+.header__github-text{
+    float:right;
+    color:#ffffff;
+    font-size: 18px;
+    margin-left: 30px;
+    font-family: 'Lato', sans-serif;
+}
+
+.header a:hover{
+    border-bottom: 3px solid #ffe500;
+    transition-duration:  0.5s;
+    
+}
+
+
+
+.wrapper{
+    max-width: 1440px;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.wrapper__left__main{
+    width: 100%;
+    /* background-color:#ffe500; */
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    /* background-image: url(../images/mCIub4.jpg); */
+   
+}
+.wrapper__left-block-yellow{
+    width: 650px;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    
+}
+/* .wrapper__right-block-white{
+    width: 30%;
+    background-color: #F7F7F7;
+    padding: 10px;
+} */
+.wrapper__textblock{
+    width: 93%;
+
+    text-align: left;
+}
+.wrapper__textblock h1{
+    padding: 98px 0 65px 0;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    font-size: 32px;
+}
+.wrapper_about{
+    font-family: 'Lato', sans-serif;
+}
+
+.wrapper__left_coding-block{
+    width: 100%;
+    background-color: #000000;
+
+    border-radius: 17px;
+    margin-top: 35px;
+}
+
+.codetext{
+    text-align:center;
+    color:white;
+    padding:15px;
+    display: inline-block;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    
+}
+
+
+
+.wrapper__left_text-1{
+   
+    color: #000000;
+    font-size:15px;
+    width: 93%;
+    margin-top:93px;  
+    border: 1px solid black;
+}
+
+
+.wrapper__left-line{
+    border-top: 2px solid #C4C4C4;
+    width: 99%;
+    margin-top: 28px;
+
+}
+
+
+.wrapper__left_text-2{
+    width: 93%;
+    border: 1px solid red;
+    margin-top:64px;
+}
+
+.wrapper__left_text-2 h1{
+    padding-bottom: 34px;
+}
+
+.wrapper__left_text-2 p{
+    padding-bottom: 34px;
+}
+
+.wrapper__left_edit{
+    width: 93%;
+}
+
+.wrapper__left_edit a{
+    margin-left: 20px;
+    padding:30px;
+    display: inline-block;
+}
+
+.footer{
+    display:flex;
+    flex-wrap: wrap;
+    width: 100%;
+    
+    background-color: black;   
+}
+
+.footer h1{
+    padding: 76px 0 45px 0;
+    width:100%;
+    
+}
+
+.footer li{
+    color: white;
+}
+
+.footer_blocks{
+    margin-left: 133px;
+    border: 1px solid red;
+
+}
+
+.big-text{
+    color:#ffe500;
+    font-size: 107px;
+    display: block;
+    font-style: bold;
+    padding-left: 97px;
+}
+
+.footer__main-blocks{
+    display: flex;
+    width:100%;
+    flex-wrap: wrap;
+}
+
+
+
+.wrapper__right-block-white h1{
+    margin-top: 20%;
+    margin-bottom: 5%;
+}
+.wrapper__right-block-white ul{
+    margin-left: 79px;
+}
+
+.wrapper__right-block-white p{
+    padding: 5px;
+    margin-left: 62px;
+}
+.right-block__text{
+    margin-top:80px;
+}
+
+
+.wrapper__right-block-white p{
+    font-size: 24px;
+    margin-bottom: 5px;
+    color: #6D6D6D;
+}
+
+.wrapper__right-block-white li{
+    margin-top: 20px;
+}
+
+.code-text-color{
+    color: #84C8D7;
+    display: inline-block;
+}
+
+.code-text-color-2{
+    color: #975F98;
+    display: inline-block;
+}
+
+
+
+.code-text-color-3{
+    color: #FFE600;
+    display: inline-block;
+}
+
+
+.code-text-color-4{
+    color: #D7C584;
+    display: inline-block;
+}
+
+
+.code-text-color-5{
+    color: #6D6D6D;
+    display: inline-block;
+}
+
+
+
+/* стилизация содержимого страницы */
+body {
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #292b2c;
+    background-color: #fff;
+} 
+  
